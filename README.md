@@ -20,9 +20,9 @@ Some people were asking for instructions on how to build the little guy, so I mo
 
 Several files are provided in this repository:
 
-* [BrickHeadz 007.io](BrickHeadz%20007.io) is the full Studio 2.0 file.
+* [BrickHeadz 007.io](https://github.com/Geekgasm/LEGO-BrickHeadz-JamesBond-007/blob/master/BrickHeadz%20007.io?raw=true) is the full Studio 2.0 file.
 * [BrickHeadz 007.pdf](BrickHeadz%20007.pdf) are the PDF instructions generated with Studio.
-* [BrickHeadz James Bond 007 Parts Bricklink.xml](BrickHeadz%20James%20Bond%20007%20Parts%20Bricklink.xml) is the parts list with all the needed parts (except for the the decorations), which you can upload to Bricklink as a wishlist to try and source the parts.
+* [BrickHeadz James Bond 007 Parts Bricklink.xml](https://github.com/Geekgasm/LEGO-BrickHeadz-JamesBond-007/blob/master/BrickHeadz%20007.io?raw=true) is the parts list with all the needed parts (except for the the decorations), which you can upload to Bricklink as a wishlist to try and source the parts.
 
 **Happy building!**
 
