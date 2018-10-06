@@ -1,5 +1,7 @@
 # LEGO BrickHeadz James Bond 007
 
+![My name ish Bond... Jamesh Bond](Cover Photo.jpg)
+
 ## Build your own James Bond LEGO BrickHeadz!
 
 I built this MOC after I was finished with the official James Bond Aston Martin DB5 LEGO set (10262) and felt there was something missing.
@@ -18,9 +20,9 @@ Some people were asking for instructions on how to build the little guy, so I mo
 
 Several files are provided in this repository:
 
-* [BrickHeadz 007.io] is the full Studio 2.0 file.
-* [BrickHeadz 007.pdf] are the PDF instructions generated with Studio.
-* [BrickHeadz James Bond 007 Parts Bricklink.xml] is the parts list with all the needed parts (except for the the decorations), which you can upload to Bricklink as a wishlist to try and source the parts.
+* [BrickHeadz 007.io](BrickHeadz 007.io) is the full Studio 2.0 file.
+* [BrickHeadz 007.pdf](BrickHeadz 007.pdf) are the PDF instructions generated with Studio.
+* [BrickHeadz James Bond 007 Parts Bricklink.xml](BrickHeadz James Bond 007 Parts Bricklink.xml) is the parts list with all the needed parts (except for the the decorations), which you can upload to Bricklink as a wishlist to try and source the parts.
 
 **Happy building!**
 
